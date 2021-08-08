@@ -6,7 +6,7 @@ Make sure maven and .m2 etc are configured on local.
 
 How to start:
 To start the development a template repo is provided at the Github link –
-https://github.com/azaylamba/
+https://github.com/azaylamba/mediumClone
 The candidate should make sure Java, Postman & Intellij are already installed on their system before starting the development. They should fork the above repo and clone to their local system. Once it is cloned, they should import the project in intellij and start development.
 To check the hosted app in the browser, they can search for http://localhost:8000/ in their browser or postman app after running the main class in IDE.
 
